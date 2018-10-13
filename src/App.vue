@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <img class="vueLogo" alt="Vue logo" src="https://starlikerain.github.io/vue_skillsList/dist/img/logo.82b9c7a5.png">
+        <img class="vueLogo" alt="Vue logo" src="https://starlikerain.github.io/vue_skillsList/src/assets/logo.png">
         <nav>
             <router-link to="/">主页</router-link>
             <router-link to="/about">关于</router-link>
